@@ -1,5 +1,7 @@
 # laptrinhweb.github.io
 
+	#.offsetParent()
+
 ### laptrinhweb.github.io
 
 Author - Nam Nguyen
